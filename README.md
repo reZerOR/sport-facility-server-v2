@@ -1,7 +1,7 @@
 # Sports Facility Booking Platform
 
 ## 🌐 Live Demo
-[https://sports-facility-v1.vercel.app/](https://sports-facility-v1.vercel.app/)
+https://sports-facility-server-v2.vercel.app
 
 ## 📝 Project Description
 The Sports Facility Booking Platform is a robust backend application designed to streamline the process of reserving sports facilities. It offers an intuitive API for users to browse, book, and manage sports venues, while providing administrators with powerful oversight tools.
